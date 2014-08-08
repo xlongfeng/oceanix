@@ -1,0 +1,1 @@
+D:\Python34\python.exe oceanix.pyw
